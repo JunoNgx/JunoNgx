@@ -1,10 +1,12 @@
 ### Hey there, I'm Juno Nguyen.
 
+(He/him)
+
 I'm a Singapore-based developer, who loves putting things on screen and seeing them moving around. Wacko videogames and minimalist websites are my jam.
 
 Most of my works are here, but if you would like something more human-readable, then [my portfolio website](https://junongx.com/) and [itch.io page](https://junongx.itch.io/) are there for you.
 
-And don't be shy to say hello!
+And don't be shy, say hello!
 
 <!--
 **JunoNgx/JunoNgx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
