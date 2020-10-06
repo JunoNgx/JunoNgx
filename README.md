@@ -2,7 +2,7 @@
 
 (He/him)
 
-I'm a Singapore-based developer, who loves putting things on screen and seeing them moving around. Wacko videogames and minimalist websites are my jam.
+I'm a Singapore-based developer, who loves putting things on screen and looking at them tweened around. Wacko videogames and minimalist websites are my jam.
 
 Most of my works are here, but if you would like something more presentable and human-readable, then [my portfolio website](https://junongx.com/) and [itch.io page](https://junongx.itch.io/) are there for you.
 
